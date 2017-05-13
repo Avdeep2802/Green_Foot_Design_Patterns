@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AfterPumpingFlow
+comment0.text=\n\ Write\ a\ description\ of\ class\ AfterPumping\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=dispScreen
+comment1.target=AfterPumpingFlow(DisplayScreen)
+comment2.params=
+comment2.target=void\ okPressed()
+comment3.params=
+comment3.target=void\ cancelPressed()
+comment4.params=
+comment4.target=void\ yesPressed()
+comment5.params=
+comment5.target=void\ noPressed()
+numComments=6

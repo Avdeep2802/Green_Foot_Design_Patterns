@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DisplayScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ Display\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=world
+comment1.target=DisplayScreen(greenfoot.World)
+comment2.params=msg
+comment2.target=void\ enterText(java.lang.String)
+comment3.params=
+comment3.target=void\ clearScreen()
+comment4.params=x\ y\ msg
+comment4.target=void\ enterText(int,\ int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ viewRender()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\n\ Act\ -\ do\ whatever\ the\ Display\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=7

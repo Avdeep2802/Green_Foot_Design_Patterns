@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GasNozzle
+comment0.text=\n\ Write\ a\ description\ of\ class\ GasNozzle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=world
+comment1.target=GasNozzle(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ carWash()
+comment4.params=
+comment4.target=void\ displayScreen()
+comment5.params=
+comment5.target=void\ callReceipt()
+numComments=6

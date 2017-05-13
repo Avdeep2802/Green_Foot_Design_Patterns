@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DispInterface
+comment1.params=
+comment1.target=void\ viewRender()
+comment2.params=component
+comment2.target=void\ addToView(DispInterface)
+numComments=3

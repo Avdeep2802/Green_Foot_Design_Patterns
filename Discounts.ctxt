@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Discounts
+comment1.params=discountPercent
+comment1.target=Discounts(double)
+comment2.params=
+comment2.target=double\ getDiscountPercent()
+numComments=3

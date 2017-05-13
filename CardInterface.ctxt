@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CardInterface
+comment0.text=\n\ Write\ a\ description\ of\ class\ CardInterface\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ enterZip()
+comment2.params=
+comment2.target=void\ swipeCard()
+comment3.params=
+comment3.target=void\ cardRelease()
+numComments=4

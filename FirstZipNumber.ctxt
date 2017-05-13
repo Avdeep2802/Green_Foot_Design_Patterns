@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FirstZipNumber
+comment0.text=\n\ Write\ a\ description\ of\ class\ FirstZipNumber\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=code
+comment1.target=FirstZipNumber(ZipCodeInterface)
+comment2.params=
+comment2.target=void\ del()
+comment3.params=
+comment3.target=void\ cancel()
+comment4.params=
+comment4.target=void\ ok()
+comment5.params=zipcode
+comment5.target=void\ zip(java.lang.String)
+comment6.params=
+comment6.target=int\ isValid()
+comment7.params=
+comment7.target=void\ notValid()
+numComments=8

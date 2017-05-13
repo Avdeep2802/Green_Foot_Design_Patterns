@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CarWashBackground
+comment1.params=world
+comment1.target=CarWashBackground(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ display()
+numComments=4
